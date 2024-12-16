@@ -1,5 +1,5 @@
 * {
-    box-sizing: border-box; /* Asegura que el padding y el borde se incluyan en el ancho total */
+    box-sizing: border-box;  
 }
 
 body {
@@ -40,7 +40,7 @@ main {
 
 .producto {
     color: rgb(0, 81, 255);
-    margin: 10px 350px; 
+    margin: 10px 20px; 
     padding: 15px;
     border: 1px solid #ddd;
     border-radius: 3px;
